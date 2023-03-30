@@ -20,4 +20,27 @@ Finance - Credit Card Customers:
 ● How does churn (attrition) look across the different demographics?
 ● What's the average utilisation?
 
+1. Excel for Data Manipulation
+Choose 2 or 3 techniques
+This section focuses on utilising the skills gained from Excel to manipulate your data.
+You can use techniques/Formulas such as:
+● SUM
+● VLOOKUP
+● XLOOKUP
+● HLOOKUP
+● IF
+● COUNTIF
+● MAX/MIN
+2. SQL For Data Analytics
+The data analysis section is based on the content we covered in the SQL sessions.
+Your project MUST contain all of the following techniques:
+● Aggregations of your chosen dataset, using SUM, COUNTS, AVG
+● GROUP BY
+● Using WHERE to filter your data
+● CASE WHEN to add additional columns
 
+3. Dashboard.
+Using Tableau.
+● Look out for any trends in your data.
+● Are there any correlations
+● Can you see any changes overtime
